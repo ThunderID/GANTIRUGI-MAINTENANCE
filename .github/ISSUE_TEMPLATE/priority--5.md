@@ -1,6 +1,6 @@
 ---
 name: Priority  5
-about: Gunakan ini, ketika sistem sama sekali tidak bisa berjalan
+about: Priority level 5 - Emergency
 title: ''
 labels: ''
 assignees: ''
