@@ -2,7 +2,7 @@
 name: Priority  5
 about: Priority level 5 - Emergency
 title: ''
-labels: ''
+labels: priority 5
 assignees: ''
 
 ---
