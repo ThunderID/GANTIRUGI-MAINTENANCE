@@ -2,7 +2,7 @@
 name: Priority 4
 about: Priority level 4
 title: ''
-labels: ''
+labels: priority 4
 assignees: ''
 
 ---
