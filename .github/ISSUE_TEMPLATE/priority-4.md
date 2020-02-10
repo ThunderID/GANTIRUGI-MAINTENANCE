@@ -1,6 +1,6 @@
 ---
 name: Priority 4
-about: Gunakan ini, ketika error tidak mempengaruhi keseluruhan sistem
+about: Priority level 4
 title: ''
 labels: ''
 assignees: ''
