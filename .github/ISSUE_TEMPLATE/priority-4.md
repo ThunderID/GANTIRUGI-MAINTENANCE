@@ -1,8 +1,8 @@
 ---
-name: ERROR - HIGH PRIORITY
-about: Gunakan ini, ketika sistem sama sekali tidak bisa berjalan
+name: Priority 4
+about: Gunakan ini, ketika error tidak mempengaruhi keseluruhan sistem
 title: ''
-labels: high priority
+labels: ''
 assignees: ''
 
 ---
@@ -12,6 +12,16 @@ Tuliskan deskripsi error / bug
 
 **Platform / Aplikasi yang bermasalah:**
 Contoh: Mobile Apps
+
+**Langkah-langkah error terjadi**
+Langkah - langkah error terjadi
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Hasil yang diharapkan**
+Hasil/Contoh yang diharapkan
 
 **Screenshots**
 Jika memungkinkan, lampirkan screenshot permasalahan Anda
