@@ -1,8 +1,8 @@
 ---
-name: Laporkan Permasalahan System!
-about: Bantulah kami membuat system yang berkualitas
+name: UPDATE - MEDIUM PRIORITY
+about: Gunakan ini, ketika error tidak mempengaruhi keseluruhan sistem
 title: ''
-labels: ''
+labels: medium priority
 assignees: ''
 
 ---
@@ -13,10 +13,6 @@ Tuliskan deskripsi error / bug
 **Platform / Aplikasi yang bermasalah:**
 Contoh: Mobile Apps
 
-**Level Urgensi:**
-High Priority (jika system sama sekali tidak bisa berjalan)
-Medium Priority (system masih bisa berjalan, namun butuh segera diperbaiki)
-
 **Langkah-langkah error terjadi**
 Langkah - langkah error terjadi
 1. Go to '...'
@@ -24,7 +20,7 @@ Langkah - langkah error terjadi
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Hasil yang diharapkan**
 Hasil/Contoh yang diharapkan
 
 **Screenshots**
